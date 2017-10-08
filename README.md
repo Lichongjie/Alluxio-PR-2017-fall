@@ -19,10 +19,12 @@
 ## Note
 
 - 大家创建PR时请注意PR的标题格式，标准格式如图所示，已经创建的PR也支持修改标题的。
-  - code improvment任务![title](img/title1.png)
-  - 文档修改任务![title](img/title2.png)
+  - code improvment任务 
+  - ![title](img/title1.png)
+  - 文档修改任务 
+  - ![title](img/title2.png)
 - 下表中给出了issue任务链接，点击即可在浏览器中打开，请大家根据issue描述，创建pr完成对应任务，第一次任务分配50人，未分配到的同学请等待第二批任务
-  ![pr-link](img/jira-link.png)
+  ![pr-link](img/issue-link.png)
   ![description](img/description.png)
 - 创建PR后，会有个 alluxio-bot 提示你`sign a contribution license agreement`，这个作用是确保你写的代码能够被开源社区接受和使用，烦请大家花两分钟sign下，很简单的(*^__^*)
   ![cla](img/agreement.png)
@@ -42,7 +44,7 @@
 | MF1615022 | https://github.com/Alluxio/new-contributor-tasks/issues/27 | | |
 | MF1633036 | https://github.com/Alluxio/new-contributor-tasks/issues/28 | | |
 | MF1733002 | https://github.com/Alluxio/new-contributor-tasks/issues/29 | | |
-| MF1733004 | https://github.com/Alluxio/new-contributor-tasks/issues/30 | | |
+| MF1733088 | https://github.com/Alluxio/new-contributor-tasks/issues/30 | | |
 | MF1733006 | https://github.com/Alluxio/new-contributor-tasks/issues/31 | | |
 | MF1733009 | https://github.com/Alluxio/new-contributor-tasks/issues/32 | | |
 | MF1733011 | https://github.com/Alluxio/new-contributor-tasks/issues/33 | | |
@@ -90,7 +92,6 @@
 |:---------:|:---------------:|:-------------------------------------------------:|:---:|
 | MF1733085 | | | |
 | MF1733087 | | | |
-| MF1733088 | | | |
 | MG1633056 | | | |
 | MG1633099 | | | |
 | MG1723086 | | | |
