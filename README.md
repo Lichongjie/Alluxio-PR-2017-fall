@@ -19,10 +19,7 @@
 ## Note
 
 - 大家创建PR时请注意PR的标题格式，标准格式如图所示，已经创建的PR也支持修改标题的。
-  - code improvment任务 
-  - ![title](img/title1.png)
-  - 文档修改任务 
-  - ![title](img/title2.png)
+   ![title](img/title1.png)
 - 下表中给出了issue任务链接，点击即可在浏览器中打开，请大家根据issue描述，创建pr完成对应任务，第一次任务分配50人，未分配到的同学请等待第二批任务
   ![pr-link](img/issue-link.png)
   ![description](img/description.png)
