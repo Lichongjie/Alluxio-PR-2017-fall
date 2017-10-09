@@ -67,7 +67,7 @@
 | MF1733052 | https://github.com/Alluxio/new-contributor-tasks/issues/53 | | |
 | MF1733055 | https://github.com/Alluxio/new-contributor-tasks/issues/54 | | |
 | MF1733056 | https://github.com/Alluxio/new-contributor-tasks/issues/55 | https://github.com/Alluxio/alluxio/pull/6237 | |
-| MF1733057 | https://github.com/Alluxio/new-contributor-tasks/issues/56 | | |
+| MF1733057 | https://github.com/Alluxio/new-contributor-tasks/issues/56 | https://github.com/Alluxio/alluxio/pull/6241 | |
 | MF1733058 | https://github.com/Alluxio/new-contributor-tasks/issues/57 | | |
 | MF1733059 | https://github.com/Alluxio/new-contributor-tasks/issues/58 | | |
 | MF1733060 | https://github.com/Alluxio/new-contributor-tasks/issues/59 | | |
@@ -77,7 +77,7 @@
 | MF1733068 | https://github.com/Alluxio/new-contributor-tasks/issues/63 | | |
 | MF1733069 | https://github.com/Alluxio/new-contributor-tasks/issues/64 | | |
 | MF1733070 | https://github.com/Alluxio/new-contributor-tasks/issues/65 | https://github.com/Alluxio/alluxio/pull/6239 | |
-| MF1733071 | https://github.com/Alluxio/new-contributor-tasks/issues/66 | | |
+| MF1733071 | https://github.com/Alluxio/new-contributor-tasks/issues/66 | https://github.com/Alluxio/alluxio/pull/6242 | |
 | MF1733072 | https://github.com/Alluxio/new-contributor-tasks/issues/67 | | |
 | MF1733077 | https://github.com/Alluxio/new-contributor-tasks/issues/68 | | |
 | MF1733083 | https://github.com/Alluxio/new-contributor-tasks/issues/69 | | |
