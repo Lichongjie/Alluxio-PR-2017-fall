@@ -76,12 +76,12 @@
 | MF1733065 | https://github.com/Alluxio/new-contributor-tasks/issues/62 | | |
 | MF1733068 | https://github.com/Alluxio/new-contributor-tasks/issues/63 | | |
 | MF1733069 | https://github.com/Alluxio/new-contributor-tasks/issues/64 | | |
-| MF1733070 | https://github.com/Alluxio/new-contributor-tasks/issues/65 | | |
+| MF1733070 | https://github.com/Alluxio/new-contributor-tasks/issues/65 | https://github.com/Alluxio/alluxio/pull/6239 | |
 | MF1733071 | https://github.com/Alluxio/new-contributor-tasks/issues/66 | | |
 | MF1733072 | https://github.com/Alluxio/new-contributor-tasks/issues/67 | | |
 | MF1733077 | https://github.com/Alluxio/new-contributor-tasks/issues/68 | | |
 | MF1733083 | https://github.com/Alluxio/new-contributor-tasks/issues/69 | | |
-| MF1733084 | https://github.com/Alluxio/new-contributor-tasks/issues/70 | https://github.com/Alluxio/alluxio/pull/6239 | |
+| MF1733084 | https://github.com/Alluxio/new-contributor-tasks/issues/70 | | |
 
 ### 第二批（截止日期`待定`，**待分配**）
 
@@ -98,6 +98,7 @@
 | MG1733004 | | | |
 | MG1733006 | | | |
 | MG1733007 | | | |
+| MG1733010 | | | |
 | MG1733018 | | | |
 | MG1733026 | | | |
 | MG1733029 | | | |
