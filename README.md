@@ -81,7 +81,7 @@
 | MF1733072 | https://github.com/Alluxio/new-contributor-tasks/issues/67 | | |
 | MF1733077 | https://github.com/Alluxio/new-contributor-tasks/issues/68 | | |
 | MF1733083 | https://github.com/Alluxio/new-contributor-tasks/issues/69 | | |
-| MF1733084 | https://github.com/Alluxio/new-contributor-tasks/issues/70 | | |
+| MF1733084 | https://github.com/Alluxio/new-contributor-tasks/issues/70 | https://github.com/Alluxio/alluxio/pull/6239 | |
 
 ### 第二批（截止日期`待定`，**待分配**）
 
