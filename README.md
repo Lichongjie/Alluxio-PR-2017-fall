@@ -66,7 +66,7 @@
 | MF1733051 | https://github.com/Alluxio/new-contributor-tasks/issues/52 | | |
 | MF1733052 | https://github.com/Alluxio/new-contributor-tasks/issues/53 | | |
 | MF1733055 | https://github.com/Alluxio/new-contributor-tasks/issues/54 | | |
-| MF1733056 | https://github.com/Alluxio/new-contributor-tasks/issues/55 | | |
+| MF1733056 | https://github.com/Alluxio/new-contributor-tasks/issues/55 | https://github.com/Alluxio/new-contributor-tasks/issues/62 | |
 | MF1733057 | https://github.com/Alluxio/new-contributor-tasks/issues/56 | | |
 | MF1733058 | https://github.com/Alluxio/new-contributor-tasks/issues/57 | | |
 | MF1733059 | https://github.com/Alluxio/new-contributor-tasks/issues/58 | | |
