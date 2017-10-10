@@ -33,7 +33,6 @@
 |:---------:|:---------------:|:-------------------------------------------------:|:---:|
 | DZ1733004 | https://github.com/Alluxio/new-contributor-tasks/issues/20 | | |
 | DZ1733011 | https://github.com/Alluxio/new-contributor-tasks/issues/21 | | |
-| DZ1733015 | https://github.com/Alluxio/new-contributor-tasks/issues/22 | | |
 | DZ1733016 | https://github.com/Alluxio/new-contributor-tasks/issues/23 | | |
 | DZ1733019 | https://github.com/Alluxio/new-contributor-tasks/issues/24 | | |
 | MF1533009 | https://github.com/Alluxio/new-contributor-tasks/issues/25 | | |
@@ -70,7 +69,7 @@
 | MF1733057 | https://github.com/Alluxio/new-contributor-tasks/issues/56 | https://github.com/Alluxio/alluxio/pull/6241 | |
 | MF1733058 | https://github.com/Alluxio/new-contributor-tasks/issues/57 | | |
 | MF1733059 | https://github.com/Alluxio/new-contributor-tasks/issues/58 | | |
-| MF1733060 | https://github.com/Alluxio/new-contributor-tasks/issues/59 | | |
+| MF1733060 | https://github.com/Alluxio/new-contributor-tasks/issues/59 | https://github.com/Alluxio/alluxio/pull/6245 | |
 | MF1733062 | https://github.com/Alluxio/new-contributor-tasks/issues/60 | | |
 | MF1733064 | https://github.com/Alluxio/new-contributor-tasks/issues/61 | | |
 | MF1733065 | https://github.com/Alluxio/new-contributor-tasks/issues/62 | | |
@@ -87,6 +86,7 @@
 
 | 学号 | issue任务链接 | Pull Request 链接 | merged(Y/N) |
 |:---------:|:---------------:|:-------------------------------------------------:|:---:|
+| DZ1733015 | | | |
 | MF1733085 | | | |
 | MF1733087 | | | |
 | MG1633056 | | | |
