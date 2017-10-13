@@ -14,7 +14,7 @@
 
 #### 由于PR从创建到审核再到最终merge一般需要几个工作日，大家一定要在截止日期之前提前几天提交！！
 
-#### 提交PR后，麻烦在群里发一下自己的PR链接，或者私信`@李崇杰`
+#### 提交PR后，麻烦在群里发一下自己的PR链接，或者私信`@助教-李崇杰`
 
 ## Note
 
@@ -33,7 +33,7 @@
 |:---------:|:---------------:|:-------------------------------------------------:|:---:|
 | DZ1733004 | https://github.com/Alluxio/new-contributor-tasks/issues/20 | | |
 | DZ1733011 | https://github.com/Alluxio/new-contributor-tasks/issues/21 | | |
-| DZ1733016 | https://github.com/Alluxio/new-contributor-tasks/issues/23 | | |
+| DZ1733016 | https://github.com/Alluxio/new-contributor-tasks/issues/23 | https://github.com/Alluxio/alluxio/pull/6283 | |
 | DZ1733019 | https://github.com/Alluxio/new-contributor-tasks/issues/24 | | |
 | MF1533009 | https://github.com/Alluxio/new-contributor-tasks/issues/25 | | |
 | MF1615019 | https://github.com/Alluxio/new-contributor-tasks/issues/26 | | |
@@ -57,11 +57,11 @@
 | MF1733038 | https://github.com/Alluxio/new-contributor-tasks/issues/44 | | |
 | MF1733039 | https://github.com/Alluxio/new-contributor-tasks/issues/45 | | |
 | MF1733040 | https://github.com/Alluxio/new-contributor-tasks/issues/46 | https://github.com/Alluxio/alluxio/pull/6238 | |
-| MF1733042 | https://github.com/Alluxio/new-contributor-tasks/issues/47 | | |
+| MF1733042 | https://github.com/Alluxio/new-contributor-tasks/issues/47 | https://github.com/Alluxio/alluxio/pull/6284 | |
 | MF1733043 | https://github.com/Alluxio/new-contributor-tasks/issues/48 | https://github.com/Alluxio/alluxio/pull/6268 | |
 | MF1733047 | https://github.com/Alluxio/new-contributor-tasks/issues/49 | https://github.com/Alluxio/alluxio/pull/6265 | |
 | MF1733049 | https://github.com/Alluxio/new-contributor-tasks/issues/50 | | |
-| MF1733050 | https://github.com/Alluxio/new-contributor-tasks/issues/51 | | |
+| MF1733050 | https://github.com/Alluxio/new-contributor-tasks/issues/51 | https://github.com/Alluxio/alluxio/pull/6281 | |
 | MF1733051 | https://github.com/Alluxio/new-contributor-tasks/issues/52 | | |
 | MF1733052 | https://github.com/Alluxio/new-contributor-tasks/issues/53 | https://github.com/Alluxio/alluxio/pull/6282 | |
 | MF1733055 | https://github.com/Alluxio/new-contributor-tasks/issues/54 | | |
