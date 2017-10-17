@@ -35,7 +35,7 @@
 | DZ1733011 | https://github.com/Alluxio/new-contributor-tasks/issues/21 | | |
 | DZ1733016 | https://github.com/Alluxio/new-contributor-tasks/issues/23 | https://github.com/Alluxio/alluxio/pull/6283 | |
 | DZ1733019 | https://github.com/Alluxio/new-contributor-tasks/issues/24 | | |
-| MF1533009 | https://github.com/Alluxio/new-contributor-tasks/issues/25 | https://github.com/Alluxio/alluxio/pull/6299| |
+| MF1533009 | https://github.com/Alluxio/new-contributor-tasks/issues/25 | https://github.com/Alluxio/alluxio/pull/6230 | |
 | MF1615019 | https://github.com/Alluxio/new-contributor-tasks/issues/26 | | |
 | MF1615022 | https://github.com/Alluxio/new-contributor-tasks/issues/27 | | |
 | MF1633036 | https://github.com/Alluxio/new-contributor-tasks/issues/28 | | |
