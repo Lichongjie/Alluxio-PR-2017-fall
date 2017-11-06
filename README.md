@@ -85,7 +85,7 @@
 
 | 学号 | issue任务链接 | Pull Request 链接 | merged(Y/N) |
 |:---------:|:---------------:|:-------------------------------------------------:|:---:|
-| DZ1733015 | https://github.com/Alluxio/new-contributor-tasks/issues/157 | | |
+| DZ1733015 | https://github.com/Alluxio/new-contributor-tasks/issues/157 | https://github.com/Alluxio/alluxio/pull/6380 | |
 | MF1733085 | https://github.com/Alluxio/new-contributor-tasks/issues/156 | | |
 | MF1733087 | https://github.com/Alluxio/new-contributor-tasks/issues/155 | | |
 | MG1633056 | https://github.com/Alluxio/new-contributor-tasks/issues/154 | | |
@@ -93,7 +93,7 @@
 | MG1723086 | https://github.com/Alluxio/new-contributor-tasks/issues/152 | | |
 | MG1733001 | https://github.com/Alluxio/new-contributor-tasks/issues/151 | | |
 | MG1733002 | https://github.com/Alluxio/new-contributor-tasks/issues/150 | | |
-| MG1733003 | https://github.com/Alluxio/new-contributor-tasks/issues/149 | | |
+| MG1733003 | https://github.com/Alluxio/new-contributor-tasks/issues/149 | https://github.com/Alluxio/alluxio/pull/6374 | |
 | MG1733004 | https://github.com/Alluxio/new-contributor-tasks/issues/148 | | |
 | MG1733006 | https://github.com/Alluxio/new-contributor-tasks/issues/147 | | |
 | MG1733007 | https://github.com/Alluxio/new-contributor-tasks/issues/146 | | |
@@ -101,7 +101,7 @@
 | MG1733018 | https://github.com/Alluxio/new-contributor-tasks/issues/144 | | |
 | MG1733026 | https://github.com/Alluxio/new-contributor-tasks/issues/143 | | |
 | MG1733029 | https://github.com/Alluxio/new-contributor-tasks/issues/142 | https://github.com/Alluxio/alluxio/pull/6372 | |
-| MG1733030 | https://github.com/Alluxio/new-contributor-tasks/issues/141 | | |
+| MG1733030 | https://github.com/Alluxio/new-contributor-tasks/issues/141 | https://github.com/Alluxio/alluxio/pull/6378 | |
 | MG1733031 | https://github.com/Alluxio/new-contributor-tasks/issues/140 | https://github.com/Alluxio/alluxio/pull/6376 | |
 | MG1733038 | https://github.com/Alluxio/new-contributor-tasks/issues/139 | | |
 | MG1733041 | https://github.com/Alluxio/new-contributor-tasks/issues/138 | | |
