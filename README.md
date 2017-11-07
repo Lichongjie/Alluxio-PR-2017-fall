@@ -85,7 +85,7 @@
 
 | 学号 | issue任务链接 | Pull Request 链接 | merged(Y/N) |
 |:---------:|:---------------:|:-------------------------------------------------:|:---:|
-| DZ1733015 | https://github.com/Alluxio/new-contributor-tasks/issues/157 | https://github.com/Alluxio/alluxio/pull/6380 | |
+| DZ1733015 | https://github.com/Alluxio/new-contributor-tasks/issues/157 | https://github.com/Alluxio/alluxio/pull/6381 | |
 | MF1733085 | https://github.com/Alluxio/new-contributor-tasks/issues/156 | | |
 | MF1733087 | https://github.com/Alluxio/new-contributor-tasks/issues/155 | | |
 | MG1633056 | https://github.com/Alluxio/new-contributor-tasks/issues/154 | | |
@@ -134,7 +134,7 @@
 | MG1733089 | https://github.com/Alluxio/new-contributor-tasks/issues/111 | | |
 | MG1733097 | https://github.com/Alluxio/new-contributor-tasks/issues/110 | | |
 | MG1733098 | https://github.com/Alluxio/new-contributor-tasks/issues/109 | | |
-| MG1733099 | https://github.com/Alluxio/new-contributor-tasks/issues/108 | | |
+| MG1733099 | https://github.com/Alluxio/new-contributor-tasks/issues/108 | https://github.com/Alluxio/alluxio/pull/6379 | |
 | MG1733101 | https://github.com/Alluxio/new-contributor-tasks/issues/107 | | |
 | MG1733103 | https://github.com/Alluxio/new-contributor-tasks/issues/106 | | |
 | 141070027 | https://github.com/Alluxio/new-contributor-tasks/issues/105 | | |
