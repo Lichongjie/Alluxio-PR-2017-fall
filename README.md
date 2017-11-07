@@ -78,7 +78,7 @@
 | MF1733071 | https://github.com/Alluxio/new-contributor-tasks/issues/66 | https://github.com/Alluxio/alluxio/pull/6242 | Y |
 | MF1733072 | https://github.com/Alluxio/new-contributor-tasks/issues/67 | https://github.com/Alluxio/alluxio/pull/6312 | Y |
 | MF1733077 | https://github.com/Alluxio/new-contributor-tasks/issues/68 | https://github.com/Alluxio/alluxio/pull/6277 | Y |
-| MF1733083 | https://github.com/Alluxio/new-contributor-tasks/issues/69 | | |
+| MF1733083 | https://github.com/Alluxio/new-contributor-tasks/issues/69 | https://github.com/Alluxio/alluxio/pull/6351 | Y |
 | MF1733084 | https://github.com/Alluxio/new-contributor-tasks/issues/70 | https://github.com/Alluxio/alluxio/pull/6289 | Y |
 
 ### 第二批（截止日期`2017-12-07 23:59:59`）
