@@ -41,7 +41,7 @@
 | MF1733002 | https://github.com/Alluxio/new-contributor-tasks/issues/29 | https://github.com/Alluxio/alluxio/pull/6293 | Y |
 | MF1733088 | https://github.com/Alluxio/new-contributor-tasks/issues/30 | https://github.com/Alluxio/alluxio/pull/6326 | Y |
 | MF1733006 | https://github.com/Alluxio/new-contributor-tasks/issues/31 | https://github.com/Alluxio/alluxio/pull/6287 | Y |
-| MF1733009 | https://github.com/Alluxio/new-contributor-tasks/issues/32 | https://github.com/Alluxio/alluxio/pull/6350 | |
+| MF1733009 | https://github.com/Alluxio/new-contributor-tasks/issues/32 | https://github.com/Alluxio/alluxio/pull/6350 | Y |
 | MF1733011 | https://github.com/Alluxio/new-contributor-tasks/issues/33 | https://github.com/Alluxio/alluxio/pull/6264 | Y |
 | MF1733012 | https://github.com/Alluxio/new-contributor-tasks/issues/34 | https://github.com/Alluxio/alluxio/pull/6292 | Y |
 | MF1733014 | https://github.com/Alluxio/new-contributor-tasks/issues/35 | https://github.com/Alluxio/alluxio/pull/6260 | Y |
@@ -54,7 +54,7 @@
 | MF1733030 | https://github.com/Alluxio/new-contributor-tasks/issues/42 | https://github.com/Alluxio/alluxio/pull/6311 | Y |
 | MF1733035 | https://github.com/Alluxio/new-contributor-tasks/issues/43 | https://github.com/Alluxio/alluxio/pull/6319 | Y |
 | MF1733038 | https://github.com/Alluxio/new-contributor-tasks/issues/44 | https://github.com/Alluxio/alluxio/pull/6286 | Y |
-| MF1733039 | https://github.com/Alluxio/new-contributor-tasks/issues/45 | https://github.com/Alluxio/alluxio/pull/6394 |  |
+| MF1733039 | https://github.com/Alluxio/new-contributor-tasks/issues/45 | https://github.com/Alluxio/alluxio/pull/6394 | Y |
 | MF1733040 | https://github.com/Alluxio/new-contributor-tasks/issues/46 | https://github.com/Alluxio/alluxio/pull/6238 | Y |
 | MF1733042 | https://github.com/Alluxio/new-contributor-tasks/issues/47 | https://github.com/Alluxio/alluxio/pull/6284 | Y |
 | MF1733043 | https://github.com/Alluxio/new-contributor-tasks/issues/48 | https://github.com/Alluxio/alluxio/pull/6268 | Y |
