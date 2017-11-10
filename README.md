@@ -140,7 +140,7 @@
 | 141070027 | https://github.com/Alluxio/new-contributor-tasks/issues/105 | | |
 | 141220104 | https://github.com/Alluxio/new-contributor-tasks/issues/104 | | |
 | MF1733054 | https://github.com/Alluxio/new-contributor-tasks/issues/103 | | |
-| MF1733091 | https://github.com/Alluxio/new-contributor-tasks/issues/102 | | |
+| MG1733091 | https://github.com/Alluxio/new-contributor-tasks/issues/102 | | |
 | MG1733005 | https://github.com/Alluxio/new-contributor-tasks/issues/101 | | |
 | MG1733014 | https://github.com/Alluxio/new-contributor-tasks/issues/100 | | |
 | MG1733027 | https://github.com/Alluxio/new-contributor-tasks/issues/99 | | |
