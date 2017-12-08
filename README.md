@@ -85,9 +85,9 @@
 
 | 学号 | issue任务链接 | Pull Request 链接 | merged(Y/N) |
 |:---------:|:---------------:|:-------------------------------------------------:|:---:|
-| DZ1733015 | https://github.com/Alluxio/new-contributor-tasks/issues/157 | https://github.com/Alluxio/alluxio/pull/6381 | |
-| MF1733085 | https://github.com/Alluxio/new-contributor-tasks/issues/156 | https://github.com/Alluxio/alluxio/pull/6550 | |
-| MF1733087 | https://github.com/Alluxio/new-contributor-tasks/issues/155 | https://github.com/Alluxio/alluxio/pull/6427 | |
+| DZ1733015 | https://github.com/Alluxio/new-contributor-tasks/issues/157 | https://github.com/Alluxio/alluxio/pull/6381 | Y |
+| MF1733085 | https://github.com/Alluxio/new-contributor-tasks/issues/156 | https://github.com/Alluxio/alluxio/pull/6550 | Y |
+| MF1733087 | https://github.com/Alluxio/new-contributor-tasks/issues/155 | https://github.com/Alluxio/alluxio/pull/6427 | Y |
 | MG1633056 | https://github.com/Alluxio/new-contributor-tasks/issues/85 | | |
 | MG1633099 | https://github.com/Alluxio/new-contributor-tasks/issues/153 | https://github.com/Alluxio/alluxio/pull/6535 | |
 | MG1723086 | https://github.com/Alluxio/new-contributor-tasks/issues/152 | | |
@@ -132,7 +132,7 @@
 | MG1733086 | https://github.com/Alluxio/new-contributor-tasks/issues/113 | https://github.com/Alluxio/alluxio/pull/6490 | Y |
 | MG1733088 | https://github.com/Alluxio/new-contributor-tasks/issues/112 | https://github.com/Alluxio/alluxio/pull/6517 | Y |
 | MG1733089 | https://github.com/Alluxio/new-contributor-tasks/issues/111 | | |
-| MG1733097 | https://github.com/Alluxio/new-contributor-tasks/issues/110 | | |
+| MG1733097 | https://github.com/Alluxio/new-contributor-tasks/issues/110 | https://github.com/Alluxio/alluxio/pull/6549 | Y |
 | MG1733098 | https://github.com/Alluxio/new-contributor-tasks/issues/109 | https://github.com/Alluxio/alluxio/pull/6389 | Y |
 | MG1733099 | https://github.com/Alluxio/new-contributor-tasks/issues/108 | https://github.com/Alluxio/alluxio/pull/6379 | Y |
 | MG1733101 | https://github.com/Alluxio/new-contributor-tasks/issues/107 | https://github.com/Alluxio/alluxio/pull/6416 | Y |
